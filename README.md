@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I’m @aldimar-junior, I build RPAs, scripts and other tools to help me and my clients on our daily routine.
+I’m @aldimar-junior, I build RPAs, scripts, analytical dashboards and other tools to help me and my clients on our daily routines.
 
 🔭 I’m currently building scripts to manipulate PDF files in multiple ways using Python.
 
