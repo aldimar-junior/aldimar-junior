@@ -32,7 +32,7 @@ I’m @aldimar-junior, I build RPAs, scripts, analytical dashboards and other to
 ![Adobe Xd](https://img.shields.io/badge/Adobe%20Xd--1?logo=adobexd&style=social&logoColor=FF61F6)
 
 ## Contact-me
-[![LinkedIn](https://img.shields.io/badge/Follow%20Me--1?logo=linkedin&style=social)](https://www.linkedin.com/in/aldimar-junior)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--1?logo=linkedin&style=social)](https://www.linkedin.com/in/aldimar-junior)
 <!---
 aldimar-junior/aldimar-junior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
