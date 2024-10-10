@@ -2,7 +2,7 @@
 
 I’m @aldimar-junior, I build RPAs, scripts, analytical dashboards and other tools to help me and my clients on our daily routines.
 
-🔭 I’m currently building scripts to manipulate PDF files in multiple ways using Python.
+🔭 I’m currently building analytical dashboards with focus on HR Reports & KPIs.
 
 📋 I plan on making most of my repos public on the near future.
 
