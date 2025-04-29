@@ -6,7 +6,7 @@ I’m @aldimar-junior, I build RPAs, scripts, analytical dashboards and other to
 
 📋 I plan on making most of my repos public on the near future.
 
-👨‍💻 Currently working for London Consulting!.
+👨‍💻 Currently working for VRA Systems!.
 
 ## Skills
 #### Programming Languages
